@@ -2,7 +2,7 @@
 
 **Last updated: February 28, 2026**
 
-This Privacy Policy describes how **[PokerApp]** ("we", "our", or "us") collects, uses, and shares information when you use our mobile application (the "App").
+This Privacy Policy describes how **PokerApp** ("we", "our", or "us") collects, uses, and shares information when you use our mobile application (the "App").
 
 ---
 
@@ -77,7 +77,7 @@ Depending on your location, you may have the right to:
 
 **California residents (CCPA):** You have the right to know what personal data we collect and request its deletion. We do not sell personal data.
 
-To exercise any of these rights, contact us at **[YOUR SUPPORT EMAIL]**.
+To exercise any of these rights, contact us at **husseinabdou06@gmail.com**.
 
 ---
 
@@ -103,5 +103,5 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 If you have questions about this Privacy Policy, please contact us:
 
-**Email:** [husseinabdou06@gmail.com]
-**App:** [PokerApp]
+**Email:** husseinabdou06@gmail.com
+**App:** PokerApp

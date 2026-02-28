@@ -2,7 +2,7 @@
 
 **Last updated: February 28, 2026**
 
-Please read these Terms of Service ("Terms") carefully before using **[PokerApp]** (the "App") operated by **[Hussein Abdou]** ("we", "us", or "our").
+Please read these Terms of Service ("Terms") carefully before using **PokerApp** (the "App") operated by **Hussein Abdou** ("we", "us", or "our").
 
 By downloading or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
@@ -10,7 +10,7 @@ By downloading or using the App, you agree to be bound by these Terms. If you do
 
 ## 1. What This App Does
 
-[PokerApp] is a **record-keeping and settlement tool** for social poker games. It allows groups of friends to:
+PokerApp is a **record-keeping and settlement tool** for social poker games. It allows groups of friends to:
 
 - Log poker session buy-ins and cash-outs
 - Calculate who owes whom after a session
@@ -109,7 +109,7 @@ We may update these Terms from time to time. We will notify you of material chan
 
 ## 11. Governing Law
 
-These Terms are governed by the laws of **[YOUR STATE/COUNTRY]**, without regard to its conflict of law provisions.
+These Terms are governed by the laws of **New York, United States**, without regard to its conflict of law provisions.
 
 ---
 
@@ -117,5 +117,5 @@ These Terms are governed by the laws of **[YOUR STATE/COUNTRY]**, without regard
 
 Questions about these Terms? Contact us:
 
-**Email:** [husseinabdou06@gmail.com]
-**App:** [PokerApp]
+**Email:** husseinabdou06@gmail.com
+**App:** PokerApp
